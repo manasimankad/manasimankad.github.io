@@ -1,1 +1,0 @@
-# manasimankad.github.io
