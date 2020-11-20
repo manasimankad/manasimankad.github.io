@@ -2,7 +2,7 @@
 title: Manasi Mankad
 subtitle: Product Designer
 email: manasimankad@gmail.com
-description: I'm a Digital Product Designer, currently working at Schlumberger, Pune
+description: I'm a Digital Product Designer currently working at Schlumberger, Pune
 baseurl: "" # the subpath of your site, e.g. /blog
 url: manasimankad.github.io # the base hostname & protocol for your site
 author: Manasi Mankad
@@ -11,7 +11,7 @@ city:
 state: 
 zip_code: 
 country: 
-phone: (+91) 9167 989 166
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
